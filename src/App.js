@@ -110,6 +110,8 @@ const Dropdown = () => {
 
   return (
     <div className="app-container">
+      <h1>OASA Realtime Config</h1>
+      <h3>This code runs locally, the source code is <a href="https://github.com/ppdms/oasa-realtime-config/">here</a>.</h3>
       <Select
         value={selectedOption}
         onChange={handleLineChange}
