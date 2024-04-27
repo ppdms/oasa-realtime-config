@@ -116,17 +116,20 @@ const Dropdown = () => {
         value={selectedOption}
         onChange={handleLineChange}
         options={options}
+        placeholder="Line"
       />
       <Select
         value={selectedRoute}
         onChange={handleRouteChange}
         options={routeOptions}
+        placeholder="Route"
         isDisabled={!selectedOption}
       />
       <Select
         value={selectedStop}
         onChange={handleStopChange}
         options={stopOptions}
+        placeholder="Stop"
         isDisabled={!selectedRoute}
       />
       <div id='buttons'>
