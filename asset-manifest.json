@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oasa.ppdms.gr/static/css/main.2dd22d4a.css",
+    "main.js": "/oasa.ppdms.gr/static/js/main.05fe2cc0.js",
+    "static/js/453.2977591b.chunk.js": "/oasa.ppdms.gr/static/js/453.2977591b.chunk.js",
+    "index.html": "/oasa.ppdms.gr/index.html",
+    "main.2dd22d4a.css.map": "/oasa.ppdms.gr/static/css/main.2dd22d4a.css.map",
+    "main.05fe2cc0.js.map": "/oasa.ppdms.gr/static/js/main.05fe2cc0.js.map",
+    "453.2977591b.chunk.js.map": "/oasa.ppdms.gr/static/js/453.2977591b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd22d4a.css",
+    "static/js/main.05fe2cc0.js"
+  ]
+}
