@@ -1,6 +1,6 @@
 {
   "name": "oasa-realtime-config",
-  "homepage": "oasa.ppdms.gr",
+  "homepage": "https://oasa.ppdms.gr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
